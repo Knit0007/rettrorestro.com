@@ -1,0 +1,49 @@
+.box{
+    background-color: black;
+    width: 80%;
+    height: 400px;
+    margin-top: 15%;
+    position: relative;
+    right: 5%;
+}
+.list p{
+padding-left: 17%;
+color: white;
+
+}
+.list svg{
+    position: relative;
+    top: 22px;
+    
+    left: 7%;
+    width: 10%;
+    font-family: ui-serif;
+   color: #c8a97e;
+
+}
+.col-md input{
+    padding: 10px 60px 10px 7px;
+    margin-right: 34px;
+    font-family: ui-serif;
+    margin-top: 20px;
+}
+.form textarea{
+    padding-right: 29%;
+    margin-left: 17.7%;
+    padding-bottom: 10%;
+    font-family: ui-serif;
+    padding-left: 10px;
+   
+}
+
+
+.form h1{
+    font-family: ui-serif;
+}
+.form{
+    background-color: #fafafa;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    margin-top: 50px;
+}
+

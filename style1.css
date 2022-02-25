@@ -1,0 +1,31 @@
+.blog h2{
+    padding-left: 10%;
+    margin-top: 7%;
+    font-family: ui-serif;
+    font-weight: bold;
+}
+.blog p{
+    padding-left: 10%;
+    margin-top: 5%;
+}
+.blog .btn{
+    position: relative;
+    left: 64px;
+    top: 20px;
+}
+.blog h5{
+    padding-left: 10%;
+    margin-top: 5%;
+    font-family: ui-serif;
+    margin-bottom: 3%;
+}
+.blog .social {
+    padding-left: 10%;
+    
+}
+.blog .row{
+    padding-bottom: 6%;
+}
+.footer .mt-5{
+    margin-top: 0;
+}
